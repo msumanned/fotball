@@ -1,0 +1,11 @@
+.firstdiv{
+    display: flex;
+    box-shadow: 2px 2px 5px rgb(77, 69, 69);
+    height: 50px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+
+
+
